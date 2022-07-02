@@ -101,3 +101,4 @@ Thiết lập một Express Server
     Run:
         node app.js
     Kết quả
+        ![image](https://user-images.githubusercontent.com/46476419/176987783-44bd9f39-0d06-4afd-a7a1-889cb63d793d.png)
